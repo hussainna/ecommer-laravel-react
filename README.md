@@ -1,5 +1,7 @@
 # ecommer-laravel-react
 
+
+## Features of the project:-
 ### Design modrem ecommer website with react
 ### Developed Login and Register systerm
 ### Build and design dashboard page for the admin
