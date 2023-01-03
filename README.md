@@ -1,6 +1,6 @@
 # ecommer-laravel-react
 
-###Design modrem ecommer website with react
+# Design modrem ecommer website with react
 ###• Developed Login and Register systerm
 ###• Build and design dashboard page for the admin
 ###• Developed admin system for control all the website and allow to the ad-
