@@ -1,0 +1,60 @@
+.auth{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 20%;
+}
+.auth h4{
+    margin-bottom: 10px;
+}
+.auth p{
+    margin-bottom: 10px;
+}
+.auth input{
+    width: 10%;
+    font-size: 20px;
+}
+.auth .qty button{
+    cursor: pointer;
+    color: black;
+    background-color: #fff;
+}
+.cart{
+    background-color: rgb(224, 224, 224);
+    height: 100vh;
+}
+.cart table{
+    margin-top: 50px;
+}
+.cart .card{
+    margin-top: 50px;
+}
+.card hr{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.checkout{
+    
+    background-color: green;
+    padding: 10px;
+    color: #fff;
+}
+.place input,textarea{
+    width: 100%;
+    padding: 10px;
+}
+.place .left{
+    width: 30%;
+    height: 40%;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.place .right{
+    margin-left: 10%;
+    margin-bottom: 20%;
+}
+.place thead{
+    margin-bottom: 10px;
+}
+.place th,td{
+    padding-left: 50px;
+}

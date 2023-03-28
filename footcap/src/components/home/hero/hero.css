@@ -1,0 +1,55 @@
+.hero{
+    background-image: url('../../images/hero-banner.png');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 87vh;
+}
+.hero .text{
+    position: relative;
+    top: 25%;
+    width: 35%;
+    left: 10%;
+    
+}
+.hero h2{
+    margin-bottom: 20px;
+}
+.hero h1{
+    margin-bottom: 20px;
+}
+.hero p{
+    margin-bottom: 20px;
+}
+.hero button{
+    align-items: center;
+    text-align: center;
+}
+.hero button i{
+    position: relative;
+    top: 20%;
+    margin-left: 10px;
+}
+@media screen and (max-width:768px) {
+    .hero .text{
+        position: relative;
+        top: 20%;
+        width: 55%;
+        left: 5%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
